@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FrameLayout</string>
+    <string name="text_saltar">Saltar</string>
+    <string name="description_copoNieve">copo de nieve</string>
+    <string name="descripcion_snowboarding">hombre haciendo snowboarding</string>
+    <string name="text_view">Ejercicio View</string>
+</resources>
